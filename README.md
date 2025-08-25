@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alanvnorcott
-- I hope to one day be able to use my knowledge and skill in the field of computer science to better the world,
-- whether that be through the development of new software or through creating systems of protection for existing ones.
-(NOTE: I am slowly migrating everything from my student GitHub to this one, I just created this GitHub for the sake of keeping everything consolidated)
+I’m a Software Engineer focused on backend development and database systems. Professionally, I work with C#, ASP.NET, and SQL Server to build scalable APIs, integrate frontends, and optimize complex queries.
+For personal projects, I usually turn to Python; It’s my go-to for experimenting with ideas, automation, and building tools.
 
+This GitHub is where I consolidate both professional and personal projects as I transition everything off my old student account.
 
 SOCIALS:
 LinkedIn: https://www.linkedin.com/in/alan-norcott-31161523b/
