@@ -7,4 +7,4 @@
 
 SOCIALS:
 LinkedIn: https://www.linkedin.com/in/alan-norcott-31161523b/
-Website: https://alanvnorcott.github.io/
+Website: https://alanvnorcott.com
