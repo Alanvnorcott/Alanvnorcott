@@ -4,5 +4,4 @@
 
 <p>SOCIALS: LinkedIn: https://www.linkedin.com/in/alannorcott/ Website: https://alanvnorcott.com</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanvnorcott&theme=tokyonight" alt="mystreak"/>
-<footer> ![](https://komarev.com/ghpvc/?username=Alanvnorcott)
-</footer>
+![](https://komarev.com/ghpvc/?username=Alanvnorcott)
