@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Alan%20V%20Norcott&fontSize=42&fontColor=ffffff&color=0:0f172a,100:2563eb" alt="Alan V Norcott" />
 </h1>
 
-<pre align="center">
+```console
 alan@github:~$ role
 Software Engineer at Versant Media
 
@@ -21,18 +21,3 @@ Frontend systems, backend services, release workflows, internal tooling
 alan@github:~$ links
 LinkedIn  → https://www.linkedin.com/in/alannorcott/
 Website   → https://alanvnorcott.com
-</pre>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alannorcott/" target="_blank">LinkedIn</a>
-  •
-  <a href="https://alanvnorcott.com" target="_blank">Website</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanvnorcott&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alanvnorcott&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
