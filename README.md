@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Alan+V+Norcott&center=true&vCenter=true&width=400&size=40&duration=4000&pause=1000" alt="Alan V Norcott" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Alan%20V%20Norcott&fontSize=40&fontAlignY=35&color=gradient&animation=fadeIn" alt="Alan V Norcott" />
 </h1>
+
 <p>
   I'm a Software Engineer at Versant Media
   I'm relocating to Munich, Germany in Fall 2026 and am actively growing through open source contribution and independent engineering work.
