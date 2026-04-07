@@ -22,13 +22,10 @@
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanvnorcott&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br/>
-<a href="https://www.linkedin.com/in/alannorcott/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://alanvnorcott.com">
-  <img src="https://img.shields.io/badge/alanvnorcott.com-185FA5?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
+
+<a href="https://www.linkedin.com/in/alannorcott/">↗ LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://alanvnorcott.com">↗ alanvnorcott.com</a>
 
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Alanvnorcott&label=Profile%20views&color=185FA5&style=flat-square" />
