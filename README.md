@@ -7,4 +7,4 @@ SOCIALS:
 LinkedIn: https://www.linkedin.com/in/alannorcott/
 Website: https://alanvnorcott.com
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=Alanvnorcott&label=Profile%20views&color=0e75b6&style=flat)
