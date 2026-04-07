@@ -1,4 +1,4 @@
-**Hi there!** 
+<h1>**Hi there!**</h1>
 
 I'm a software engineer at Versant Media. I'll be relocating to Munich by Fall 2026. I build whatever comes to mind, and I'm just starting to get into open source projects. 
 
