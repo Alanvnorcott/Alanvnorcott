@@ -1,7 +1,23 @@
-<h1>Hi there!</h1>
+<h1>Hi there, I'm Alan 👋</h1>
 
-<p>I'm a software engineer at Versant Media. I'll be relocating to Munich by Fall 2026. I build whatever comes to mind, and I'm just starting to get into open source projects.</p>
+<p>
+  I'm a Software Engineer at Versant Media, focused on building reliable user-facing systems and production-ready tooling.
+  I'm relocating to Munich, Germany in Fall 2026 and am actively growing through open source contribution and independent engineering work.
+</p>
 
-<p>SOCIALS: LinkedIn: https://www.linkedin.com/in/alannorcott/ Website: https://alanvnorcott.com</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanvnorcott&theme=tokyonight" alt="mystreak"/>
-![](https://komarev.com/ghpvc/?username=Alanvnorcott)
+<p>
+  I work across TypeScript, JavaScript, C#, Python, SQL, React, and modern web platforms, with experience spanning frontend systems, backend services, release workflows, and internal tooling.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/alannorcott/" target="_blank">LinkedIn</a> |
+  <a href="https://alanvnorcott.com" target="_blank">Website</a>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alanvnorcott&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Alanvnorcott&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
