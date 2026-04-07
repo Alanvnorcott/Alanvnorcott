@@ -2,14 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Alan%20V%20Norcott&fontSize=42&fontColor=ffffff&color=0:0f172a,100:2563eb" alt="Alan V Norcott" />
 </h1>
 
-<p align="center">
-  I'm a Software Engineer at Versant Media.<br/>
-  I'm relocating to Munich, Germany in Fall 2026 and am actively growing through open source contribution and independent engineering work.
-</p>
+<pre align="center">
+alan@github:~$ role
+Software Engineer at Versant Media
 
-<p align="center">
-  I work across TypeScript, JavaScript, C#, Python, SQL, React, and modern web platforms, with experience spanning frontend systems, backend services, release workflows, and internal tooling.
-</p>
+alan@github:~$ relocation
+Munich, Germany • Fall 2026
+
+alan@github:~$ growth
+Open source contribution and independent engineering work
+
+alan@github:~$ technologies
+TypeScript • JavaScript • C# • Python • SQL • React
+
+alan@github:~$ experience
+Frontend systems, backend services, release workflows, internal tooling
+
+alan@github:~$ links
+LinkedIn  → https://www.linkedin.com/in/alannorcott/
+Website   → https://alanvnorcott.com
+</pre>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alannorcott/" target="_blank">LinkedIn</a>
