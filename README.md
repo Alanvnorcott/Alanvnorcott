@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Alan%20V%20Norcott&fontSize=42&fontColor=ffffff&color=0:0f172a,100:2563eb" alt="Alan V Norcott" />
 </h1>
 
-<p align="center">
-  Software Engineer at Versant Media • Building production systems • Relocating to Munich
-</p>
-
 <p>
   I'm a Software Engineer at Versant Media
   I'm relocating to Munich, Germany in Fall 2026 and am actively growing through open source contribution and independent engineering work.
