@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Relocating%20to-Munich%2C%20Germany%20·%20Fall%202026-1D9E75?style=flat-square&labelColor=0f172a&color=1D9E75" />
 </p>
 <p>
-  Building across <strong>frontend systems, backend services, release workflows, and internal tooling</strong>.<br/>
-  Actively growing through open source and independent engineering work.
+  I build stuff, mostly fullstack systems, backend services, release workflows, and internal tools.<br/>
+  Outside of work, I’ve been getting more into open source and building my own projects.
 </p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
