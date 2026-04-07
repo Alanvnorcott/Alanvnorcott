@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Alan%20V%20Norcott&fontSize=40&fontAlignY=35&color=gradient&animation=fadeIn" alt="Alan V Norcott" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&text=Alan%20V%20Norcott&fontSize=42&fontColor=ffffff&color=0:0f172a,100:2563eb" alt="Alan V Norcott" />
 </h1>
+
+<p align="center">
+  Software Engineer at Versant Media • Building production systems • Relocating to Munich
+</p>
 
 <p>
   I'm a Software Engineer at Versant Media
