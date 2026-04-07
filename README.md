@@ -8,4 +8,5 @@ LinkedIn: https://www.linkedin.com/in/alannorcott/
 Website: https://alanvnorcott.com
 
 ![](https://komarev.com/ghpvc/?username=Alanvnorcott&label=Profile%20views&color=0e75b6&style=flat)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alanvnorcott&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=Alanvnorcott)
+
