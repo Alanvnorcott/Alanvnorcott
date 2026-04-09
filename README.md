@@ -2,7 +2,7 @@
 <h1>Alan V Norcott</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Software%20Engineer-Versant%20Media-185FA5?style=flat-square&labelColor=0f172a&color=185FA5" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-Versant%20Media-185FA5?style=flat-square&labelColor=0f172a&color=185FA5"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Relocating%20to-Munich%2C%20Germany%20·%20Fall%202026-1D9E75?style=flat-square&labelColor=0f172a&color=1D9E75" />
 </p>
