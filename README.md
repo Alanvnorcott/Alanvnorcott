@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Relocating%20to-Munich%2C%20Germany%20·%20Fall%202026-1D9E75?style=flat-square&labelColor=0f172a&color=1D9E75" />
 </p>
 <p>
-  I like building things, mostly full-stack systems, backend services, release workflows, and internal tools.<br/>
+  I like building things, mostly fullstack systems, backend services, release workflows, and internal tools.<br/>
   Outside of work, I’ve been getting more into open source and building my own projects.
 </p>
 <p>
